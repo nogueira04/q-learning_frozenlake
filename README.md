@@ -1,5 +1,5 @@
 # q-learning_frozenlake
-Q-Learning reinforcement algorithm on frozen lake environment
+Q-Learning reinforcement algorithm on frozen lake environment.__
 Installation:
 ```
 pip install -r requirements.txt
