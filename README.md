@@ -11,4 +11,4 @@ Executing:
 python main.py
 ```
 <br>
-![](https://github.com/nogueira04/q-learning_frozenlake/example.gif)
+![](https://github.com/q-learning_frozenlake/example.gif)
