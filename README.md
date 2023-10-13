@@ -11,6 +11,4 @@ Executing:
 python main.py
 ```
 <br>
-
 ![gif](https://github.com/nogueira04/q-learning_frozenlake/blob/main/example.gif)
-https://raw.githubusercontent.com/nogueira04/q-learning_frozenlake/main/example.gif
